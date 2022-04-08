@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AQI</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="upmsg">hey there have been new feature add on this app , try It now </string>
+    <string name="upnow">Update now</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="join_us">Join us</string>
+    <string name="da">Download other Hoogle app</string>
+    <string name="cancel">Cancel</string>
+    <string name="ae">ca-app-pub-7479732637897937/3233503938</string>
+    <string name="ad9View">ca-app-pub-7479732637897937/5668095589</string>
+    <string name="ad10View">ca-app-pub-7479732637897937/3734737828</string>
+
+    <string name="ad11View">ca-app-pub-7479732637897937/8552800296</string>
+    <string name="ad12View">ca-app-pub-7479732637897937/5093380511</string>
+    <string name="earn">ca-app-pub-7479732637897937/7336400470</string>
+    <string name="earn2">ca-app-pub-7479732637897937/4338223111</string>
+    <string name="earn3">ca-app-pub-7479732637897937/1108574484</string>
+    <string name="es">ca-app-pub-7479732637897937/8412349437</string>
+    <string name="earn4">ca-app-pub-7479732637897937/4473104423</string>
+    <string name="earn5">ca-app-pub-7479732637897937/5459733097</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7479732637897937/9743071966</string>
+
+    <string name="ae3">ca-app-pub-7479732637897937/3177663618</string>
+    <string name="ad93">ca-app-pub-7479732637897937/8046846918</string>
+    <string name="ad103">ca-app-pub-7479732637897937/1520488083</string>
+
+
+    <string name="earn13">ca-app-pub-7479732637897937/1892502102</string>
+    <string name="earn23">ca-app-pub-7479732637897937/8266338769</string>
+    <string name="earn33">ca-app-pub-7479732637897937/6953257094</string>
+
+
+</resources>
